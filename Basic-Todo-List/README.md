@@ -1,6 +1,6 @@
 # ✅ Basic Todo List with Status Filter
 
-## 📌 Module 8 Assignment – JavaScript
+## 📌 Module 10 Assignment – JavaScript
 
 ---
 
@@ -146,7 +146,7 @@ node todo.js
 ## 👤 Author Info
 
 **Name:** *MD SHADIF HASAN*  
-**GitHub:** [github.com/MD-Shadif-Hasan](https://github.com/MD-Shadif-Hasan/Module_10-project)  
+**GitHub:** [github.com/MD-Shadif-Hasan] (https://github.com/MD-Shadif-Hasan/Module_10-project)  
 **Institute/Class:** [OSTAD], (Full Stack Web Development with PHP, Laravel & Vue Js, Batch-8) 
 
 ---

@@ -132,13 +132,13 @@ node todo.js
 
 ## ✅ Evaluation Checklist
 
-| Requirement                     | Status      ||
-|---------------------------------|-------------||
-| Public GitHub repository        | ✅ Done     |
-| Filtering logic using `filter()`| ✅ Done     |
-| Clear, readable console output  | ✅ Done     |
-| Code is clean and commented     | ✅ Done     |
-| Demo video added to README      | ✅ Done     |
+| Requirement                     | Status      || <br>
+|---------------------------------|-------------|| <br>
+| Public GitHub repository        | ✅ Done     | <br>
+| Filtering logic using `filter()`| ✅ Done     | <br>
+| Clear, readable console output  | ✅ Done     | <br>
+| Code is clean and commented     | ✅ Done     | <br>
+| Demo video added to README      | ✅ Done     | <br>
 
 ---
 
